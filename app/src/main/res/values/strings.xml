@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Furkanemirce Sesleri (Noluyo öyle)</string>
+    <string name="tab_fav">Favorilerim</string>
+    <string name="tab_text_1">Ses serisi 1</string>
+    <string name="tab_text_2">Ses serisi 2</string>
+    <string name="tab_text_3">Ses serisi 3</string>
+    <string name="tab_text_4">Ses serisi 4</string>
+    <string name="tab_text_5">Ses serisi 5</string>
+    <string name="tab_text_6">Ses serisi 6</string>
+    <string name="action_settings">Settings</string>
+</resources>

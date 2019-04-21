@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff33b5e5</color>
+    <color name="colorPrimaryDark">#5c5cff</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="test_1">#e3ff9b</color>
+    <color name="test_2">#9bc1ff</color>
+    <color name="test_3">#9ba0ff</color>
+    <color name="test_4">#3034b6</color>
+    <color name="test_5">#ffd99b</color>
+    <color name="test_bg">#e4edff</color>
+
+    <!-- AlertDialog Renkleri -->
+    <color name="alertDialog_button">#5119f8</color>
+    <color name="alertDialog_titleAndMessage">#080042</color>
+    <color name="alertDialog_bg">#ebfff9</color>
+
+</resources>

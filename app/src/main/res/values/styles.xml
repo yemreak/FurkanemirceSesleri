@@ -1,0 +1,36 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/test_2</item>
+        <item name="colorPrimaryDark">@color/test_3</item>
+        <item name="colorAccent">@color/test_4</item>
+        <item name="android:textColorPrimary">@android:color/white</item>
+        <item name="android:colorButtonNormal">@android:color/holo_blue_light</item>
+        <item name="android:colorBackground">@color/test_bg</item>
+    </style>
+
+    <style name="ToolbarTheme" parent="AppTheme">
+        <item name="android:fontFamily">@font/atma_medium</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="LightAlertDialog" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <!-- Buton renkleri -->
+        <item name="android:colorAccent">@color/alertDialog_button</item>
+        <!-- Başlık ve mesaj renkleri -->
+        <item name="android:textColorPrimary">@color/alertDialog_titleAndMessage</item>
+        <!-- Arkaplan Rengi -->
+        <item name="android:windowBackground">@color/alertDialog_bg</item>
+    </style>
+
+</resources>
